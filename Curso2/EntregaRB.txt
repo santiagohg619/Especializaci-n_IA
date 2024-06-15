@@ -1,0 +1,11 @@
+P(homicida) = 0.01
+
+P(sangre) = 0.10700000000000001
+
+P(cuchillo) = 0.256
+
+P(~cuchillo) = 0.744
+
+P(~cuchillo|homicida) = 0.15000000000000002
+
+P(homicida|cuchillo,sangre) = 0.21553090332805072
